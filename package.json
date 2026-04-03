@@ -1,1 +1,25 @@
-{\n  "name": "marketplace-website",\n  "version": "1.0.0",\n  "description": "A complete marketplace website.",\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "latest",\n    "react": "latest",\n    "react-dom": "latest",\n    "axios": "latest",\n    "pg": "latest",\n    "express": "latest",\n    "bcryptjs": "latest",\n    "jsonwebtoken": "latest",\n    "dotenv": "latest"\n  },\n  "devDependencies": {\n    "eslint": "latest",\n    "eslint-config-next": "latest"\n  }\n}
+{
+  "name": "marketplace-website",
+  "version": "1.0.0",
+  "description": "A complete marketplace website.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "latest",
+    "pg": "latest",
+    "express": "latest",
+    "bcryptjs": "latest",
+    "jsonwebtoken": "latest",
+    "dotenv": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
